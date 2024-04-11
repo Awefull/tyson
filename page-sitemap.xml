@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-03-28T21:02:54+08:00</lastmod>
+		<lastmod>2024-04-10T20:50:44+08:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/MVIMG_20230619_110742-scaled.jpg</image:loc>
 		</image:image>
@@ -71,6 +71,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/03/d2643bb5a772d83720813b5be31419e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contact-us/</loc>
+		<lastmod>2024-04-09T21:13:04+08:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/20230824060428-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/d070751eb8fe2687a097aa730bd853f.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
